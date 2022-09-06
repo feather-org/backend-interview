@@ -18,7 +18,7 @@ We are a remote-first team with a focus on delivering high quality work. Our dis
 
 ### Requirements
 
-This is a take home project for the role of a backend engineer at Feather.
+This is a take home project for the role of a backend engineer at Feather. This should not take more than 2 hours.
 
 * Set up a new service in any language (preferably Java, Kotlin or Python)
 * Set up logging
