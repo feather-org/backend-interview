@@ -51,3 +51,5 @@ Employee
 * Date of Birth
 * Employee Number
 * Tax ID Number
+* Employment Status: One of ACTIVE and INACTIVE
+* Marital Status: One of SINGLE, MARRIED, COMMON LAW, DIVORCED and WIDOWED
