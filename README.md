@@ -30,9 +30,9 @@ This is a take home project for the role of a backend engineer at Feather.
 | POST                      | `/company`  | Returns the unique company id                  |
 | POST                      | `/employee` | Returns the unique employee id                 |
 | GET all employees         | `/employee` | Returns the paginated Employees (10 at a time) |
-| GET one employee using id | `/employee` | Returns Employee                               |
 
 * A README file describing how to start / stop the server
+* The JSON test cases that were used against the server
 
 ### Data Model
 
